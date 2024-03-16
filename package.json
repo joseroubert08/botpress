@@ -25,7 +25,7 @@
     "url": "https://github.com/botpress/botpress/issues"
   },
   "dependencies": {
-    "axios": "^0.15.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
     "chalk": "^1.1.3",
